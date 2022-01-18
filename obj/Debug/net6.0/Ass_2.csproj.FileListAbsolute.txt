@@ -1,0 +1,15 @@
+A:\Ass_2\bin\Debug\net6.0\Ass_2.exe
+A:\Ass_2\bin\Debug\net6.0\Ass_2.deps.json
+A:\Ass_2\bin\Debug\net6.0\Ass_2.runtimeconfig.json
+A:\Ass_2\bin\Debug\net6.0\Ass_2.dll
+A:\Ass_2\bin\Debug\net6.0\ref\Ass_2.dll
+A:\Ass_2\bin\Debug\net6.0\Ass_2.pdb
+A:\Ass_2\obj\Debug\net6.0\Ass_2.csproj.AssemblyReference.cache
+A:\Ass_2\obj\Debug\net6.0\Ass_2.GeneratedMSBuildEditorConfig.editorconfig
+A:\Ass_2\obj\Debug\net6.0\Ass_2.AssemblyInfoInputs.cache
+A:\Ass_2\obj\Debug\net6.0\Ass_2.AssemblyInfo.cs
+A:\Ass_2\obj\Debug\net6.0\Ass_2.csproj.CoreCompileInputs.cache
+A:\Ass_2\obj\Debug\net6.0\Ass_2.dll
+A:\Ass_2\obj\Debug\net6.0\ref\Ass_2.dll
+A:\Ass_2\obj\Debug\net6.0\Ass_2.pdb
+A:\Ass_2\obj\Debug\net6.0\Ass_2.genruntimeconfig.cache
